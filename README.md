@@ -68,4 +68,13 @@ You can check the materials which were sent [here](http://materials.ironhack.com
 The Teaching Assistants will be there to supervise. :point_right: They cannot answer any questions about javascript, or help you with your code.
 :runner:Go to them once you're done with the exercise and you can explain the decisions you made.
 
+## Evaluation Criteria
+
+What are we looking for?
+
+- Clean Code
+- Correct interpretation of a problem
+- Problem-solving and logical skills
+- Communication Skills
+
 # Good luck!! :raised_hands:
